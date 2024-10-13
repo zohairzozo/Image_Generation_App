@@ -20,5 +20,7 @@ This is a simple web-based application that generates AI-based images from text 
 
 ## How it Works
 ***Input***: Enter a text prompt into the input box.
+
 ***Generate***: When you click the "Generate Image" button, the app sends the prompt to the Stable Diffusion model, which generates an image based on your text.
+
 ***Output***: The generated image is displayed on the screen along with a success message.
