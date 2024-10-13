@@ -3,6 +3,7 @@ openai
 python-dotenv
 requests
 streamlit
+transformers
 torch
 scipy 
 ftfy 
