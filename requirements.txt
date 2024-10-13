@@ -1,0 +1,10 @@
+diffusers==0.30.3
+openai
+python-dotenv
+requests
+streamlit
+torch
+transformners
+scipy 
+ftfy 
+accelerate
